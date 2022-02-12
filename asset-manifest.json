@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/reactdemowebsite/static/css/main.79638a00.chunk.css",
+    "main.js": "/reactdemowebsite/static/js/main.b960863b.chunk.js",
+    "main.js.map": "/reactdemowebsite/static/js/main.b960863b.chunk.js.map",
+    "runtime-main.js": "/reactdemowebsite/static/js/runtime-main.de5d07ac.js",
+    "runtime-main.js.map": "/reactdemowebsite/static/js/runtime-main.de5d07ac.js.map",
+    "static/css/2.9a8cfa92.chunk.css": "/reactdemowebsite/static/css/2.9a8cfa92.chunk.css",
+    "static/js/2.2ef79ffd.chunk.js": "/reactdemowebsite/static/js/2.2ef79ffd.chunk.js",
+    "static/js/2.2ef79ffd.chunk.js.map": "/reactdemowebsite/static/js/2.2ef79ffd.chunk.js.map",
+    "index.html": "/reactdemowebsite/index.html",
+    "static/css/2.9a8cfa92.chunk.css.map": "/reactdemowebsite/static/css/2.9a8cfa92.chunk.css.map",
+    "static/css/main.79638a00.chunk.css.map": "/reactdemowebsite/static/css/main.79638a00.chunk.css.map",
+    "static/js/2.2ef79ffd.chunk.js.LICENSE.txt": "/reactdemowebsite/static/js/2.2ef79ffd.chunk.js.LICENSE.txt",
+    "static/media/Covid1.53566bcd.jpg": "/reactdemowebsite/static/media/Covid1.53566bcd.jpg",
+    "static/media/Covid2.5352108c.jpg": "/reactdemowebsite/static/media/Covid2.5352108c.jpg",
+    "static/media/Covid6.5ecf1a2d.jpg": "/reactdemowebsite/static/media/Covid6.5ecf1a2d.jpg",
+    "static/media/Covid7.21f7e72d.jpg": "/reactdemowebsite/static/media/Covid7.21f7e72d.jpg",
+    "static/media/burger.39a229fb.jpg": "/reactdemowebsite/static/media/burger.39a229fb.jpg",
+    "static/media/food.50c9ac87.jpg": "/reactdemowebsite/static/media/food.50c9ac87.jpg",
+    "static/media/hotdog.48cb5b3a.jpg": "/reactdemowebsite/static/media/hotdog.48cb5b3a.jpg",
+    "static/media/index.css": "/reactdemowebsite/static/media/pizza6.219f3e04.jpg",
+    "static/media/khaman1.ac006b09.jpg": "/reactdemowebsite/static/media/khaman1.ac006b09.jpg",
+    "static/media/maggi.38066024.jpg": "/reactdemowebsite/static/media/maggi.38066024.jpg",
+    "static/media/pizza19.f539adb5.jpg": "/reactdemowebsite/static/media/pizza19.f539adb5.jpg",
+    "static/media/pizza20.11ae4e33.jpg": "/reactdemowebsite/static/media/pizza20.11ae4e33.jpg",
+    "static/media/pizza5.4b7a8d1a.jpg": "/reactdemowebsite/static/media/pizza5.4b7a8d1a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.de5d07ac.js",
+    "static/css/2.9a8cfa92.chunk.css",
+    "static/js/2.2ef79ffd.chunk.js",
+    "static/css/main.79638a00.chunk.css",
+    "static/js/main.b960863b.chunk.js"
+  ]
+}
